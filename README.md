@@ -204,5 +204,7 @@ newman run ARSW_LOAD-BALANCING_AZURE.postman_collection.json -e [ARSW_LOAD-BALAN
 * Presente el Diagrama de Despliegue de la solución.
 
 
+[**Respuestas aqui:**](FibonacciApp/postman/part2/Respuestas_Parte2_Balanceo_Azure.md)
 
 
+[Link video](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/karol_rodriguez-r_mail_escuelaing_edu_co/IQB8LnJYkM5VQI6kWn7jR0dXAZROGBKB5_aK3BQzLHXaK7E)
