@@ -1,6 +1,14 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
 
+
+### Integrantes:
+
+- Juan David Moreno D'Aleman
+- Karol XImena Rodriguez Reyes
+
+---
+
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
 ### Dependencias
@@ -96,6 +104,8 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 9. ¿Qué pasa con la infraestructura cuando cambia el tamaño de la VM? ¿Qué efectos negativos implica?
 10. ¿Hubo mejora en el consumo de CPU o en los tiempos de respuesta? Si/No ¿Por qué?
 11. Aumente la cantidad de ejecuciones paralelas del comando de postman a `4`. ¿El comportamiento del sistema es porcentualmente mejor?
+
+**Las respuestas a esta parte del desarrollo se encuentran [AQUÍ](/FibonacciApp/postman/part1/RESPUESTAS.md)**
 
 ### Parte 2 - Escalabilidad horizontal
 
@@ -194,5 +204,7 @@ newman run ARSW_LOAD-BALANCING_AZURE.postman_collection.json -e [ARSW_LOAD-BALAN
 * Presente el Diagrama de Despliegue de la solución.
 
 
+[**Respuestas aqui:**](FibonacciApp/postman/part2/Respuestas_Parte2_Balanceo_Azure.md)
 
 
+[Link video](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/karol_rodriguez-r_mail_escuelaing_edu_co/IQB8LnJYkM5VQI6kWn7jR0dXAZROGBKB5_aK3BQzLHXaK7E)
